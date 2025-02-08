@@ -16,8 +16,8 @@ There are 10000 instances for buyer side model and 50000 instances for the selle
 ## Seller Side Model
 
 ## Deployment
-The deployment of the models is done with the help of hugging face spaces using gradio on the free tier and can be used on the hugging face website as well as with an API endpoint.
-[Seller Side](https://huggingface.co/spaces/kugo16/Seller-side-model)
+The deployment of the models is done with the help of hugging face spaces using gradio on the free tier and can be used on the hugging face website as well as with an API endpoint.<br/>
+[Seller Side](https://huggingface.co/spaces/kugo16/Seller-side-model)<br/>
 [Buyer Side](https://huggingface.co/spaces/NiharMandahas/Customer_fraud_EL)
 
 # Blockchain
