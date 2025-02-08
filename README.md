@@ -14,6 +14,7 @@ There are 10000 instances for buyer side model and 50000 instances for the selle
 ## Buyer Side Model
 
 ## Seller Side Model
+To detect fraud at  seller level, supervised machine learning models are explored. The model selection process involves extensive experimentation and performance evaluation.  Feature engineering was performed to transform seller metrics into meaningful inputs. The models were trained using supervised learning techniques, with validation conducted to ensure their performance was optimal. The core of the fraud detection system relied on machine learning models. Several algorithms, including Random Forest, Logistic Regression, SVM, Decision Tree, Gradient Boosting, and XGBoost, were tested. After evaluation, Random Forest was selected for final implementation. Hyperparameter tuning was carried out to enhance the models’ effectiveness for real-world deployment.
 
 ## Deployment
 The deployment of the models is done with the help of hugging face spaces using gradio on the free tier and can be used on the hugging face website as well as with an API endpoint.<br/>
