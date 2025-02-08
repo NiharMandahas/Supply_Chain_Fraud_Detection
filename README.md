@@ -4,6 +4,8 @@ Defective and counterfeit products are a major problem for the automobile and in
 # Project Description
 
 The first component of the project is a seller-side model, which is used to assess a seller's authenticity based on a variety of characteristics related to the seller, such as the quantity of returned goods per 100, the rate of delays, the rate of fulfilment, and other comparable characteristics. However, the buyer side model is utilised to determine whether the customer is attempting to return a counterfeit item after receiving the correct one. The user's account age, return to order ratio, and other comparable data are used by the model for this purpose. Then comes the third component, the Blockchain part, which is used to make sure there is no tampering in the supply chain.
+![ApproachDiagram](https://github.com/user-attachments/assets/2d12a735-52fe-4618-a7dd-915dfa5d37ba)
+
 
 # AI Models
 
