@@ -14,6 +14,7 @@ The dataset used to train both models was created artificially based on pertinen
 There are 10000 instances for buyer side model and 50000 instances for the seller side model.These dataset can be seen the Dataset Folder.
 
 ## Buyer Side Model
+A fraud detection system was implemented to analyze customer behavior patterns. The model incorporated historical user data, examining various indicators including the ratio of orders to returns, credit scores, and how often users modified their credentials. During the evaluation phase, three machine learning approaches were tested: Random Forest, Neural Network, and K-Nearest Neighbors (KNN). Among these options, the Random Forest algorithm demonstrated superior performance in identifying potentially fraudulent activities. This suggests that ensemble-based decision trees were most effective at capturing the complex patterns associated with fraudulent customer behavior.
 
 ## Seller Side Model
 To detect fraud at  seller level, supervised machine learning models are explored. The model selection process involves extensive experimentation and performance evaluation.  Feature engineering was performed to transform seller metrics into meaningful inputs. The models were trained using supervised learning techniques, with validation conducted to ensure their performance was optimal. The core of the fraud detection system relied on machine learning models. Several algorithms, including Random Forest, Logistic Regression, SVM, Decision Tree, Gradient Boosting, and XGBoost, were tested. After evaluation, Random Forest was selected for final implementation. Hyperparameter tuning was carried out to enhance the models’ effectiveness for real-world deployment.
@@ -21,7 +22,7 @@ To detect fraud at  seller level, supervised machine learning models are explore
 ## Deployment
 The deployment of the models is done with the help of hugging face spaces using gradio on the free tier and can be used on the hugging face website as well as with an API endpoint.<br/>
 [Seller Side](https://huggingface.co/spaces/kugo16/Seller-side-model)<br/>
-[Buyer Side](https://huggingface.co/spaces/NiharMandahas/Customer_fraud_EL)
+[Buyer Side](https://huggingface.co/spaces/NiharMandahas/KNN_Fraud)
 
 # Blockchain
 
