@@ -131,7 +131,7 @@ def predict_seller_score(request):
     
 
 def process_values_with_groq(values, prompt):
-    key = "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"
+    key = ""
     client = Groq(api_key=key)
     
     # Handle dictionary input
