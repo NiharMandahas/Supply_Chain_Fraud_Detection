@@ -32,37 +32,23 @@ The deployment of the models is done with the help of hugging face spaces using 
 A blockchain system was developed to authenticate automotive parts. The system ensures that buyers can verify whether a product is sold by a genuine seller.
 
 ## How It Works
-
 ###Manufacturer Generates QR Code:
-
 The manufacturer records details such as product specifications, manufacturer info, and seller details.
-
 The data is stored on the blockchain.
-
 A QR code is generated and attached to the product.
 
-
 ### Buyer Verification:
-
 When purchasing a product, the buyer scans the QR code through the portal.
-
 The system checks the blockchain to verify the seller’s authenticity.
-
 The buyer gets a confirmation message if the seller is genuine.
 
-
 ### Smart Contract Execution:
-
 Smart contracts ensure that all transactions and modifications are securely recorded.
-
 This prevents tampering and ensures transparency in the supply chain.
 
-Technologies Used
-
+### Technologies Used
 Ganache GUI (Ethereum Blockchain Development)
-
 Solidity (Smart Contract Development)
-
 Web3.js (Blockchain Interaction)
 
 # Frontend
