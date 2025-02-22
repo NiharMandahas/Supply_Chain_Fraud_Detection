@@ -54,5 +54,8 @@ Web3.js (Blockchain Interaction)
 # Frontend
 
 # Backend
+Django is used to build the backend for the entire e-commerce platform. It is mostly used to store user data, their activities, and transmit this data to the SQL database for the website's general operation.  The mysql client module facilitates the connection to the locally hosted SQL database. Because the AI models are cloud-based, they can be accessed via a straightforward API, and Groq has access to an additional API that provides the logic behind the anticipated outcome. 
+
+# SQL-Database
 
 # Visuals
