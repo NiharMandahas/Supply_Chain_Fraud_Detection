@@ -26,12 +26,12 @@ To detect fraud at  seller level, supervised machine learning models are explore
 ## Deployment
 The deployment of the models is done with the help of hugging face spaces using gradio on the free tier and can be used on the hugging face website as well as with an API endpoint.<br/>
 
-<img src=https://github.com/NiharMandahas/Supply_Chain_Fraud_Detection/blob/main/visuals/seller_model.jpeg width=600 height=400><br/>
+<img src=https://github.com/NiharMandahas/Supply_Chain_Fraud_Detection/blob/main/visuals/seller_model.png width=600 height=400><br/>
 
 [Seller Side](https://huggingface.co/spaces/kugo16/Seller-side-model)<br/>
 
 
-<img src=https://github.com/NiharMandahas/Supply_Chain_Fraud_Detection/blob/main/visuals/buyer_model.jpeg width=600 height=400><br/>
+<img src=https://github.com/NiharMandahas/Supply_Chain_Fraud_Detection/blob/main/visuals/buyer_model.png width=600 height=400><br/>
 
 [Buyer Side](https://huggingface.co/spaces/NiharMandahas/KNN_Fraud)
 
