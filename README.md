@@ -59,3 +59,10 @@ Django is used to build the backend for the entire e-commerce platform. It is mo
 # SQL-Database
 
 # Visuals
+
+
+<img src=https://github.com/NiharMandahas/Supply_Chain_Fraud_Detection/blob/main/visuals/img1.jpeg width=600 height=400><br/>
+<img src=https://github.com/NiharMandahas/Supply_Chain_Fraud_Detection/blob/main/visuals/img2r.jpeg width=600 height=400><br/>
+<img src=https://github.com/NiharMandahas/Supply_Chain_Fraud_Detection/blob/main/visuals/img3.jpeg width=600 height=400><br/>
+
+
